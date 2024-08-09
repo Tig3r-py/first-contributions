@@ -7033,3 +7033,4 @@ vivek saskar
 - [Rois Khoiron](https://github.com/roiskhoiron) ** I wanna be a good programmer with join open-source projects **
 - [pierreanri] (https://github.com/pierreanri) **pierreanri's first open source contribution!**
 - [Kouta Shuhei](https://github.com/Shuhei-pp) **My first contribution**
+- [Gabriel] (https://github.com/Tig3r-py) **My first contribution siuuuum🇮🇹 9/8/2024**
